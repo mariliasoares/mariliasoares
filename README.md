@@ -4,7 +4,7 @@
 
 🚀 Working intensively with: **Angular, Design System, Accessibility, Github Pipes, AWS**
 
-🌱 Currently learning: **Sprint Boot**
+🌱 Currently learning: **.NET C#**
 
 ### Find me elsewhere 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marilia-soares/)](https://www.linkedin.com/in/marilia-soares/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mahsoars/)](https://www.instagram.com/mahsoars/)
